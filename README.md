@@ -2,10 +2,13 @@
 
 **Step One:**
 * Make sure you have an IDE and necessary extentions(if needed) installed  
-**Steo Two:**
-* Open the CLI App in the IDE
+
+**Step Two:**
+* Open the CLI App in the IDE  
+
 **Step Three:**
 * Run the CLI App  
+
 **Step Four:**
 * Choose the number corresponding with the field you want to see from the menu or to exit  
 
