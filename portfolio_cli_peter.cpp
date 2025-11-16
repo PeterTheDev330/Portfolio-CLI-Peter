@@ -106,6 +106,7 @@ void show_projects(){
    cout<< "3. Student Management System - C++. "<<endl;
    cout<< "4. Portfolio Website (unfinished). "<<endl;
    cout<< "5. To-Do List - C++. "<<endl;
+   cout<< "6. ZRA Tax Calculator "<<endl;
 
    cout<<endl;
 }
